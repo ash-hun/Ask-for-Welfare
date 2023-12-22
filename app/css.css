@@ -1,0 +1,96 @@
+div p {
+    color : #333;
+}
+span p {
+    color: #333;
+}
+.st-emotion-cache-k7vsyb a {
+    text-decoration: none;
+    color: #333
+}
+
+.st-emotion-cache-1y4p8pa {
+    padding-left : 0.5rem;
+    padding-right : 0.5rem;
+    max-width : 56rem;
+}
+
+h6 {
+    color: #333;
+    font-size: 12px;
+    padding: 2px;
+}
+
+h5 {
+    color: gray;
+    font-size: 15px;
+    padding: 2px;
+}
+
+h4 {
+    color: #333;
+    font-size: 18px;
+    padding: 2px;
+}
+
+p {
+    text-decoration: none;
+    color: #333
+}
+
+
+.st-emotion-cache-1r6slb0 {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+
+    border: 2px solid #1bf;
+    padding: 0.7rem;
+    padding-bottom: 1.3rem;
+    line-height: 1rem;
+    border-radius: 15px;
+    color: #333;
+}
+
+img {
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+}
+
+
+a:link {
+  color : #333;
+}
+a:visited {
+  color : #333;
+}
+
+a:active {
+  color : pink
+}
+
+.st-emotion-cache-13ejsyy{
+  background-color: transparent;
+}
+
+
+div button p {
+  background-color: rgba(240, 242, 246);
+  font-size:3rem;
+}
+/* 
+# .stApp {
+  #     background: url('https://wallpapercave.com/wp/wp9597778.jpg');
+  #     background-size: cover;
+  #     background-position: center;
+  # }
+  
+  # h1 {
+  #   margin: 0px;
+  #   padding: 0px;
+  #   color: #ddd;
+  #   font-size: min(9vw, 9rem);
+  #   font-family: sans-serif;
+  
+  # } */

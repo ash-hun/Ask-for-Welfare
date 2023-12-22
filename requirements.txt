@@ -1,0 +1,10 @@
+audio-recorder-streamlit==0.0.8
+chromadb==0.4.16
+ffmpeg==1.4
+Js2Py==0.74
+langchain==0.0.332
+openai==1.2.0
+pydub==0.25.1
+streamlit-chat==0.1.1
+streamlit==1.28.2
+torch==2.1.0

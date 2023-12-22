@@ -1,0 +1,3 @@
+# config.toml 파일
+[theme]
+base="light"
