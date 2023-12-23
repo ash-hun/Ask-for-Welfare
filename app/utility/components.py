@@ -25,7 +25,7 @@ def add_logo():
         """
         <style>
             [data-testid="stSidebarNav"] {
-                background-image: url("https://github.com/A-SSiST/SSiS_Service/blob/main/assets/lighttheme.png?raw=true");
+                background-image: url("https://github.com/ash-hun/Ask-for-Welfare/blob/main/assets/lighttheme.png?raw=true");
                 background-repeat: no-repeat;
                 background-size: 90%;
                 position: relative;

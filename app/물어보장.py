@@ -176,7 +176,7 @@ def llm_chatbot(question):
         for i in range(len(result['source_documents'])):
             try:
                 # 시도: metadata['title']에 접근
-                title_link = "[" + result['source_documents'][i].metadata['title'] + "](" + result['source_documents'][i].metadata['tag'].split("|")[1] + ")"
+                title_link = "[" + result['source_documents'][i].metadata['title'] + "](https://www.bokjiro.go.kr/ssis-tbu/index.do)"
                 lst.append(title_link)
             except KeyError:
                 # 예외 처리: 'title' 키가 없을 경우
