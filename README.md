@@ -8,7 +8,7 @@
 
 - **Project Title** : 생성형AI를 활용한 나에게 힘이 되는 AI복지 서비스 개발 프로젝트
 - **Project Period** : 2023.10.20. ~ 2023.12.01. (6 Week)
-- **Project Tag** : `LLM` `Openai` `RAG` `LangChain` `VectorDB` `Semantic Search` `ChatBot`
+- **Skill Tag** : `LLM` `Openai` `RAG` `LangChain` `VectorDB` `Semantic Search` `ChatBot` `Domain Adaptation`
 - **Partner Institution** : SSiS(한국사회보장정보원)
 
 # How to Run
