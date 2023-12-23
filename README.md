@@ -4,7 +4,7 @@
 </div>
 
 # Introduction
-![프로토](./assets/proto.png)
+![프로토](./assets/demo.png)
 
 - **Project Title** : 생성형AI를 활용한 나에게 힘이 되는 AI복지 서비스 개발 프로젝트
 - **Project Period** : 2023.10.20. ~ 2023.12.01. (6 Week)
