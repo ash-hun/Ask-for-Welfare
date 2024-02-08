@@ -21,13 +21,11 @@ https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/32d206d4-49e3-4503-a9
     $ cd app
     $ streamlit run 물어보장.py
 
-# Tools
-
-<img src="./assets/UseCase02.png"/>
-<br><br>
-<img src="./assets/UseCase01.png"/>
-
 # Architectures
+
+![ask-for-welfare_architecture](https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/74f00290-54da-4d8b-a745-163ad5c9ebca)
+
+# Process
 
 ![물어보장_아키텍쳐](https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/39465170-9992-4cb6-bc23-98cbe29ec82a)
 
