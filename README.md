@@ -1,23 +1,35 @@
 <div align="center">
-    <img src="./assets/service logo.png" width="70%"/>
+    <img src="./assets/service logo.png" width="60%"/>
     <p style="color:gray"><b>개인 맞춤형 복지제도 매칭/제공 서비스 '물어보장'</b></p>
 </div>
-
-# Introduction
-![프로토](./assets/demo.png)
 
 - **Project Title** : 생성형AI를 활용한 나에게 힘이 되는 AI복지 서비스 개발 프로젝트
 - **Project Period** : 2023.10.20. ~ 2023.12.01. (6 Week)
 - **Skill Tag** : `LLM` `Openai` `RAG` `LangChain` `VectorDB` `Semantic Search` `ChatBot` `Domain Adaptation`
 - **Partner Institution** : SSiS(한국사회보장정보원)
 
+# Introduction
+
+https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/32d206d4-49e3-4503-a91a-f726047fd830
+
 # How to Run
 
 *(※ Please Check Your OpenAI API Key on your OS environment !!!)*  
 
     $ pip install -r requirements.txt
+    $ python init.py
     $ cd app
     $ streamlit run 물어보장.py
+
+# Tools
+
+<img src="./assets/UseCase02.png"/>
+<br><br>
+<img src="./assets/UseCase01.png"/>
+
+# Architectures
+
+![물어보장_아키텍쳐](https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/39465170-9992-4cb6-bc23-98cbe29ec82a)
 
 # Contributor
 <table>
@@ -38,18 +50,6 @@
     </td>
   </tr>
 </table>
-
-
-# Tools
-
-<img src="./assets/UseCase02.png"/>
-<br><br>
-<img src="./assets/UseCase01.png"/>
-
-# Architectures
-
-![물어보장_아키텍쳐](https://github.com/ash-hun/Ask-for-Welfare/assets/32566767/39465170-9992-4cb6-bc23-98cbe29ec82a)
-
 
 # Reference
 
