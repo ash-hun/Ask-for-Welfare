@@ -168,3 +168,6 @@ app/logs.log
 app/.DS_Store
 assets/.DS_Store
 app/embeddingModel/
+app/model/
+app/actions/__pycache__
+app/__MAXOSX/*

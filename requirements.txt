@@ -8,3 +8,4 @@ pydub==0.25.1
 streamlit-chat==0.1.1
 streamlit==1.28.2
 torch==2.1.0
+gdown==5.1.0
