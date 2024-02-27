@@ -215,25 +215,6 @@ def modeloutput(prompt):
         joined_docs = ', '.join(map(str, set_list(docs)))
         return (f"{prompt}", f"이와 관련된 복지제도는 **{joined_docs}** 등이 있습니다.")
 
-def set_list(docs):
-    """ set_list
-    문서 내용이 중복될 경우 제거한다.
-
-    Args:
-        docs (_type_) : None check duplicate data
-
-    Returns:
-        unique_list (list) : Delete duplicate data
-    """
-
-    unique_list = []
-    seen = set()
-
-    for item in docs:
-        if item not in seen:
-            unique_list.append(item)
-            seen.add(item)
-    return unique_list
 # ==========================================================================================================================================================================
 
 # ==========================================================================================================================================================================
